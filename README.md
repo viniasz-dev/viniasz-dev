@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="banner"/>
+<img src="assets/banner.svg?v=2" width="100%" alt="banner"/>
 
 <br/>
 
@@ -69,12 +69,12 @@ Página institucional responsiva, publicada em produção, com foco em navegaç�
 
 <div align="center">
 
-<img src="assets/skills.svg" width="100%" alt="foco atual"/>
+<img src="assets/skills.svg?v=2" width="100%" alt="foco atual"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="assets/footer.svg?v=2" width="100%" alt="footer"/>
 </div>
