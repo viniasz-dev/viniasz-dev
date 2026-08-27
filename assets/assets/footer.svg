@@ -1,0 +1,29 @@
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="70" fill="#0d1b2a"/>
+  <g fill="#39ff14">
+    <rect x="0" y="0" width="900" height="4"/>
+    <rect x="0" y="0" width="4" height="70"/>
+    <rect x="896" y="0" width="4" height="70"/>
+  </g>
+  <text x="450" y="42" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="13" letter-spacing="4" fill="#7fe08a">OBRIGADO PELA VISITA :)</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-30 0; 940 0" dur="7s" repeatCount="indefinite"/>
+    <g transform="translate(0,26) scale(1.6)">
+      <rect x="6" y="0" width="12" height="12" fill="#39ff14"/>
+      <rect x="6" y="12" width="12" height="12" fill="#39ff14"/>
+      <g>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.4s" repeatCount="indefinite"/>
+        <rect x="6" y="24" width="6" height="7" fill="#39ff14"/>
+        <rect x="12" y="24" width="6" height="7" fill="#39ff14"/>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.5;1" dur="0.4s" repeatCount="indefinite"/>
+        <rect x="2" y="24" width="6" height="7" fill="#39ff14"/>
+        <rect x="16" y="24" width="6" height="7" fill="#39ff14"/>
+      </g>
+    </g>
+  </g>
+</svg>
