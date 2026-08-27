@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31521338/README.md)<div align="center">
+<div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="banner"/>
 
