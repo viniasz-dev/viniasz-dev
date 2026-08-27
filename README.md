@@ -69,7 +69,7 @@ Página institucional responsiva, publicada em produção, com foco em navegaç�
 
 <div align="center">
 
-<img src="assets/skills.svg?v=2" width="100%" alt="foco atual"/>
+<img src="assets/skills-v2.svg" width="100%" alt="foco atual"/>
 
 </div>
 
