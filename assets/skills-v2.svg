@@ -1,0 +1,56 @@
+<svg width="900" height="246" viewBox="0 0 900 246" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradS" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1128"/>
+      <stop offset="100%" stop-color="#050a1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="246" fill="url(#bgGradS)"/>
+
+  <text x="60" y="26" font-family="'Courier New', monospace" font-weight="bold" font-size="15" letter-spacing="3" fill="#4cc9f0">FOCO_ATUAL.LOG</text>
+  <rect x="230" y="14" width="12" height="16" fill="#4cc9f0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="60" y1="34" x2="840" y2="34" stroke="#123a5c" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+    <text x="60" y="58" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8fc9ef">PYTHON</text>
+    <rect x="260" y="46" width="560" height="16" fill="none" stroke="#3a86ff" stroke-width="1.5"/>
+    <rect x="262" y="48" width="0" height="12" fill="#4cc9f0">
+      <animate attributeName="width" values="0;500;500" keyTimes="0;0.6;1" dur="1.2s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="834" y="58" font-family="'Courier New', monospace" font-size="12" fill="#4cc9f0">90%</text>
+    <text x="60" y="88" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8fc9ef">DJANGO</text>
+    <rect x="260" y="76" width="560" height="16" fill="none" stroke="#3a86ff" stroke-width="1.5"/>
+    <rect x="262" y="78" width="0" height="12" fill="#4cc9f0">
+      <animate attributeName="width" values="0;444;444" keyTimes="0;0.6;1" dur="1.35s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="834" y="88" font-family="'Courier New', monospace" font-size="12" fill="#4cc9f0">80%</text>
+    <text x="60" y="118" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8fc9ef">SQL</text>
+    <rect x="260" y="106" width="560" height="16" fill="none" stroke="#3a86ff" stroke-width="1.5"/>
+    <rect x="262" y="108" width="0" height="12" fill="#4cc9f0">
+      <animate attributeName="width" values="0;416;416" keyTimes="0;0.6;1" dur="1.5s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="834" y="118" font-family="'Courier New', monospace" font-size="12" fill="#4cc9f0">75%</text>
+    <text x="60" y="148" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8fc9ef">GIT / DOCKER</text>
+    <rect x="260" y="136" width="560" height="16" fill="none" stroke="#3a86ff" stroke-width="1.5"/>
+    <rect x="262" y="138" width="0" height="12" fill="#4cc9f0">
+      <animate attributeName="width" values="0;360;360" keyTimes="0;0.6;1" dur="1.65s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="834" y="148" font-family="'Courier New', monospace" font-size="12" fill="#4cc9f0">65%</text>
+    <text x="60" y="178" font-family="'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8fc9ef">JS / TS</text>
+    <rect x="260" y="166" width="560" height="16" fill="none" stroke="#3a86ff" stroke-width="1.5"/>
+    <rect x="262" y="168" width="0" height="12" fill="#4cc9f0">
+      <animate attributeName="width" values="0;304;304" keyTimes="0;0.6;1" dur="1.8s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="834" y="178" font-family="'Courier New', monospace" font-size="12" fill="#4cc9f0">55%</text>
+
+  <text x="60" y="226" font-family="'Courier New', monospace" font-size="12" fill="#5a7fa3">&gt; estudante de Sistemas de Informacao · projetos freelancer &amp; SaaS em producao</text>
+
+  <g fill="#4cc9f0">
+    <rect x="0" y="0" width="900" height="4"/>
+    <rect x="0" y="242" width="900" height="4"/>
+    <rect x="0" y="0" width="4" height="246"/>
+    <rect x="896" y="0" width="4" height="246"/>
+  </g>
+</svg>
