@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/31525822/README.2.md)
 <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="banner"/>
@@ -65,12 +66,11 @@ Página institucional responsiva, publicada em produção, com foco em navegaç�
 
 <br/>
 
-## 📊 Estatísticas
+## 📊 Foco atual
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viniasz-dev&show_icons=true&theme=default&hide_border=true&title_color=1F2A44&icon_color=1F2A44&text_color=333333" width="49%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniasz-dev&layout=compact&hide_border=true&title_color=1F2A44&text_color=333333" width="35%" alt="top langs"/>
+<img src="assets/skills.svg" width="100%" alt="foco atual"/>
 
 </div>
 
